@@ -4,4 +4,4 @@
 ## HTML projects
 Repository with HTML projects from basic to advanced.
 
-Documetação HTML - https://developer.mozilla.org/pt-BR/docs/Web/HTML
+Documentation HTML - https://developer.mozilla.org/pt-BR/docs/Web/HTML
